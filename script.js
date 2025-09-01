@@ -1,3 +1,3 @@
 //Version initiale
-var a = 5;
+var a = 4;
 console.log(a);
